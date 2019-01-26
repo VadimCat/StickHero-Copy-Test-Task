@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e9c5b0422bfb1fc469da77ef7d8f1814
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StrapPref: {fileID: 1905161725322704, guid: 1050f8cf85ecf4349abe8bd2c78eba34,
+      type: 2}
+  - HeroPref: {fileID: 1017299665617876, guid: 50fc30ffc0b494f4786ada0b75db1678, type: 2}
+  - PlatformPref: {fileID: 1150853994044446, guid: ef8bba977d292284da6751a02510a2c9,
+      type: 2}
+  - CurrentCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

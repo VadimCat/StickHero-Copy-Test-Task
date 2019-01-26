@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34a680c100f46ca45835e65e35a45272
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BonusPref: {fileID: 1718299377155436, guid: 69d984445a37c024cad6358388a5947e,
+      type: 2}
+  - VoidZonePref: {fileID: 1153393213530546, guid: cbeac8cb7de384f46b312cd9015763ec,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
